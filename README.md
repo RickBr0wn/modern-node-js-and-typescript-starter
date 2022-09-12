@@ -2,7 +2,7 @@
 
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)]()
 
-This is a starter for speeding up the development process in creating modern Node.js apps using typescript. Modern Node.js allows us developers to use tools such as `import/export` files, and `async/await`.
+This is a starter for speeding up the development process in creating modern Node.js apps using typescript. Modern Node.js allows us developers to use `ES6` features such as `import/export`, and the `async/await` keywords.
 
 ## Getting Started
 

@@ -31,6 +31,9 @@ To start your own repository,
 ```bash
 rm -rf .git
 git init
+
+git add .
+git commit -m 'initial commit'
 ```
 
 This will remove the existing git history, and allow you to link it to a new repository.

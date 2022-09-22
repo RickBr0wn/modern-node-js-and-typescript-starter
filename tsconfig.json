@@ -16,7 +16,7 @@
     "declarationMap": true,
     "inlineSourceMap": true,
     "inlineSources": true,
-		"downlevelIteration": true
+    "downlevelIteration": true
   },
   "include": ["**/*"],
   "exclude": ["node_modules", "**/*.spec.ts", "./dist/**/*"]
